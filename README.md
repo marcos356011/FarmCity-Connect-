@@ -17,6 +17,4 @@ Bem-vindo à **FarmCity Connect**! Esta plataforma foi criada para facilitar a c
 5. **Entrando em Contato**:
    - Caso queira saber mais ou trocar ideias diretamente com os agricultores, utilize os contatos fornecidos.
 
-**FarmCity Connect** é mais do que uma loja online, é uma ponte entre o campo e a cidade, transformando a maneira como você consome alimentos frescos e de qualidade superior. Explore e aproveite a experiência!
-
-[FarmCity Connect]
+**FarmCity Connect** é mais do que uma loja online, é uma ponte entre o campo e a cidade, transformando a maneira como você consome alimentos frescos e de qualidade superior. Explore e aproveite 
